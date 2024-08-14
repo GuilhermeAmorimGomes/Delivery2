@@ -1,0 +1,131 @@
+#main{
+    display: grid;
+    background-color: #666363;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: 150px 
+    
+}
+#svg{
+  height: 30px;
+}
+#div01{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.oi{
+    text-align: left;
+}
+#head{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    background-color: #474562;
+    grid-template-rows: 170px 120px 80px
+    
+}
+#div001{
+    grid-row:1/4 ;
+    grid-column:1/4 ;
+    text-align: center;
+}
+#div002{
+    grid-row:1 ;
+    grid-column:2 ;
+}
+#div003{
+    grid-row:1 ;
+    grid-column:3 ;
+}
+#div004{
+    grid-row:1 ;
+    grid-column:4;
+    text-align: right;
+}
+#div005{
+    grid-row:1 ;
+    grid-column:5 ;
+}
+#div006{
+    grid-row:1 ;
+    grid-column:6;
+}
+#h2{
+    color: white;
+}
+#div0011{
+    color: white;
+}
+#div0018{
+    color: white;
+}
+#div0017{
+    color: white;
+    text-align: right;
+}
+#final{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    background-color: #474562;
+    grid-template-rows: 170px 130px 90px
+}
+.cmc{
+    text-align: right;
+}
+#erro{
+    grid-row: 2;
+    grid-column: 1;
+}
+#ult{
+    grid-row: 1/4;
+    grid-column: 5/6;
+    text-align: right;
+}
+
+
+
+
+
+#heade{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: #666363;
+    grid-template-rows: 150px 
+    
+}
+#div01{
+    color: white;
+    
+}
+#div02{
+    color: white;
+    text-align: center;
+    
+}
+#main2{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    background-color: #474562;
+    grid-template-rows: 200px 250px 75px 75px
+     
+}
+#div03{
+    color: white;
+    text-align: center;
+}
+#div04{
+    text-align: center;
+}
+#div05{
+    text-align: center;
+    
+}
+#align{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#t{
+    text-align: center;
+}
+
+
